@@ -18,7 +18,7 @@
 # first = int(input("first "))
 # second = int(input("second "))
 
-# print(max(first,second))1
+# print(max(first,second))
 
 # 3 вариант решения задачи
 # в питоне 0 - булевое значение False,а остальные числа это True в условии
